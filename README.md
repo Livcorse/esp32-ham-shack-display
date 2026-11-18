@@ -10,6 +10,8 @@ alerts, night mode, English / Romanian.
 Needed and unconfirmed countries come from your logbooks: **QRZ.com, ARRL LoTW, Club Log, eQSL**
 (red = never worked, orange = worked but not confirmed, purple = needed on that band).
 The "Heard near me" filter shows only spots reported within 500 / 1000 km of you.
+A station you already worked on the spot's band and mode (CW / phone / digital) is shown grey with
+WORKED (or hidden), and the DXpeditions page shows the band-mode slots you already have.
 Optional **phone notifications** (free ntfy app, no account) for a NEW ONE, wherever you are.
 
 With the optional PC agent (Windows): your radio's frequency on the panel and
