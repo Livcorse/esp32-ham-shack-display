@@ -10,8 +10,8 @@ alerts, night mode, English / Romanian.
 Needed and unconfirmed countries come from your logbooks: **QRZ.com, ARRL LoTW, Club Log, eQSL**
 (red = never worked, orange = worked but not confirmed, purple = needed on that band).
 The "Heard near me" filter shows only spots reported within 500 / 1000 km of you.
-A station you already worked on the spot's band and mode (CW / phone / digital) is shown grey with
-WORKED (or hidden), and the DXpeditions page shows the band-mode slots you already have.
+A station you already worked on the spot's band and mode (CW / phone / digital) gets a red arrow and
+WORKED after the country (or is hidden), and the DXpeditions page shows the band-mode slots you already have.
 Optional **phone notifications** (free ntfy app, no account) for a NEW ONE, wherever you are.
 
 With the optional PC agent (Windows): your radio's frequency on the panel and
@@ -37,6 +37,9 @@ SETUP > tap the version line at the top > **Update now**. Your settings are kept
 
 If you build one, please press **Star** at the top of this page or leave a note under **Issues**
 (your callsign and country) - it is the only way I know who uses it.
+
+If you like the panel and want to help: buy me a coffee at [ko-fi.com/yo2cr](https://ko-fi.com/yo2cr) ☕
+(the panel also shows a QR code for it at start-up and in SETUP > Manual > About).
 
 ## Licence
 
